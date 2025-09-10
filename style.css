@@ -1,0 +1,9 @@
+.head
+{
+    display:flex;
+    justify-content: space-evenly;
+}
+.button
+{
+    color: blue;
+}
